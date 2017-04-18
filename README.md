@@ -1,2 +1,2 @@
-# C-Armtead.github.io
+# PsychedelicWalrus.github.io
 Setting up a personal site for whatever...
